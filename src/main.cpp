@@ -39,7 +39,7 @@ double prevVal4 = 0;
 
 // Initial values for minimum and maximum angles
 double minAngle = -163;
-double maxAngle = -58;
+double maxAngle = -65;
 
 // Angles to be sent to the joystick library after taking out outliers
 double finalAngle1 = minAngle;
